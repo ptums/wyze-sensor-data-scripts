@@ -1,0 +1,14 @@
+blackboxprotobuf==1.0.1
+certifi==2024.2.2
+charset-normalizer==3.3.2
+dnspython==2.6.1
+idna==3.7
+mintotp==0.3.0
+protobuf==3.10.0
+pycryptodomex==3.20.0
+pymongo==4.7.2
+python-dotenv==1.0.1
+requests==2.31.0
+six==1.16.0
+urllib3==2.2.1
+wyze-sdk==2.2.0
